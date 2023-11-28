@@ -1,5 +1,21 @@
-# IPTV-Never-Die
 
+* [IPTV-Never-Die](README.md#iptv-never-die)
+   * [物理方法](README.md#物理方法)
+      * [锅盖](README.md#锅盖)
+   * [魔法方法](README.md#魔法方法)
+      * [1、网页](README.md#1网页)
+      * [2、Windows](README.md#2windows)
+      * [3、macOS](README.md#3macos)
+      * [4、Linux](README.md#4linux)
+      * [5、IOS](README.md#5ios)
+      * [6、Android](README.md#6android)
+      * [7、Smart TV](README.md#7smart-tv)
+      * [8、Apple TV](README.md#8apple-tv)
+      * [9、Xbox](README.md#9xbox)
+      * [10、Google Chrome](README.md#10google-chrome)
+
+<!-- Created by https://github.com/ekalinin/github-markdown-toc -->
+# IPTV-Never-Die
 由于广电要求，各大电视家纷纷跑路于是衍生出此项目。项目内容不限于IPTV，所有一切能解决观看电视直播或者是观看电视剧的方法均在此项目行列。
 
 ## 物理方法
@@ -149,21 +165,21 @@
 
 - [IPTV Pro](https://play.google.com/store/apps/details?id=ru.iptvremote.android.iptv.pro)  - 适用于Android的IPTV播放器。
 
-#### Smart TV
+### 7、Smart TV
 
 - [SS IPTV](https://ss-iptv.com/en) - 这是一款智能电视应用程序，为用户提供了观看IPTV的机会。
 
-#### Apple TV
+### 8、Apple TV
 
 - [iPlayTV](https://apps.apple.com/us/app/iplaytv/id1072226801) - IPTV/M3U播放器，适用于Apple TV
 - [IPTV Player Live](https://apps.apple.com/us/app/iptv-player-live-watch-tv-m3u/id1662299469) - 免费的IPTV播放器，支持M3U，Xtream Codes，并通过iCloud同步，实现Apple TV，iPhone，iPad和Mac之间的连贯体验。
 - [Opus IPTV Player](https://apps.apple.com/app/apple-store/id1592313576?pt=123343602&ct=awesome-iptv&mt=8) - 跨平台的 IPTV 播放器：适用于所有设备，包括 iOS, iPad, MacOS, Apple TV, Android 和 Android Tv的IPTV播放器。
 
-#### Xbox
+### 9、Xbox
 
 - [Open IPTV](https://www.microsoft.com/en-us/p/open-iptv/9n9gc8l5mldm) - 一款适用于Xbox One的现代IPTV播放器。
 
-#### Google Chrome
+### 10、Google Chrome
 
 - [Native HLS Playback](https://chrome.google.com/webstore/detail/native-hls-playback/emnphkkblegpebimobpbekeedfgemhof) - 允许浏览器“原生”播放HLS视频URL（m3u8）。
 - [EPG Viewer](https://chrome.google.com/webstore/detail/epg-viewer/lnhfllpjnichiepbkgnfhpaakhicbelh) - 在浏览器中直接查看 XMLTV 文件。
